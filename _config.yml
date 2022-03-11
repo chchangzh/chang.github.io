@@ -1,27 +1,24 @@
 # Site settings
-title: 笨方法学写作
+title: 阿常与山海
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "笨方法学写作|这一次彻底学会写作"  
+description: "阿常与山海|摄影、游记、记录"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "https://chchangzh.github.io/"  
 
 # About/contact
 owner: 
-  name: "陈素封"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "阿常"
+  email: soloshadows@163.com
+  bio: "阿常与山海"
 
 # Data
 gavatar: img/favicon1.ico
 favicon: img/favicon1.ico
 
-douban_username: cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+github_username: chchangzh
+weibo_username: chchangzh 
+zhihu_username: chchangzh
 
 # Build settings  
 # use Github Flavored Markdown !important  
